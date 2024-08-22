@@ -1,0 +1,93 @@
+.dropdown{
+    padding-left: 5%;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.client-1{
+    max-width: 90%;
+    padding: 20px 40px;
+    opacity: 0.5;
+    filter: grayscale(100);   
+}
+.client-1:hover{
+    opacity: 1;
+    filter: grayscale(0);
+}
+.cont2{
+    margin-top: 50px;
+}
+.features::after{
+    content: "";
+    margin: auto;
+    width: 50px;
+    height: 3px;
+    display: block;
+    text-align: center;
+    background-color: rgb(85, 151, 151);
+    padding: 2px 30px;
+    margin-top: 20px;   
+}
+.bi{
+    color: rgb(83, 132, 132);
+}
+.pricingg::after{
+    content: "";
+    margin: auto;
+    width: 50px;
+    height: 3px;
+    display: block;
+    text-align: center;
+    background-color: rgb(85, 151, 151);
+    padding: 2px 30px;
+    margin-top: 20px;   
+}
+.testimoni::after{
+    content: "";
+    margin: auto;
+    width: 50px;
+    height: 3px;
+    display: block;
+    text-align: center;
+    background-color: rgb(85, 151, 151);
+    padding: 2px 30px;
+    margin-top: 20px;   
+}
+.frequent::after{
+    content: "";
+    margin: auto;
+    width: 50px;
+    height: 3px;
+    display: block;
+    text-align: center;
+    background-color: rgb(85, 151, 151);
+    padding: 2px 30px;
+    margin-top: 20px;   
+}
+.mpp{
+    width: 100%;
+    height: 400px;
+    padding-top: 40px;
+}
+.collapse{
+    align-items: end;
+    margin-left: 150px;
+}
+.icon1{
+    margin: 60px 15px;
+    border: 2px solid rgb(85, 151, 151);
+}
+/* .tick{
+    \F633;
+} */
+.t-col{
+    box-shadow: 0px 0px 20px 0px rgb(106, 115, 119);
+}
+/* .c-icon{
+    box-shadow: 0px 0px 5px 0px rgb(106, 115, 119);
+} */
+.fom{
+    margin-top: 10px;
+    box-shadow: 0px 0px 20px 0px rgb(172, 185, 190);
+}
